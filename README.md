@@ -3,7 +3,7 @@
 A modern Admin Dashboard built using React and Vite.  
 This project includes authentication, category management, and product management features.
 
-🚀 Live Demo: (Add Netlify/Vercel link here if deployed)
+🚀 Live Demo: https://abhishek-travel-admin.netlify.app/
 
 ---
 
